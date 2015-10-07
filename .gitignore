@@ -1,0 +1,8 @@
+app/build/
+.idea/
+build/
+.gradle/
+prayandroid.iml
+local.properties
+app/app.iml
+target/
